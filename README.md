@@ -15,18 +15,6 @@
 
 ---
 
-## 主要專案
-
-| 專案 | 簡介 | 特色摘要 |
-|------|------|----------|
-| **EdgeWhisperPi** | 為 Raspberry Pi 打造的離線語音辨識套件 | 即時錄音端點、一鍵 `setup.sh`、模型下載器 |
-| **AI-Code-Review-Agent** | 以大型語言模型為核心的程式碼審查系統 | 支援 Push 與排程觸發、多語言報告、大型差異分段分析 |
-| **EdgeFunASR_STT** | 完全離線的 FunASR 語音轉錄與摘要工具 | WebSocket 即時串流、批次音檔、跨平台執行檔 |
-| **Proxy-Hunter** | 專業 Proxy 管理工具 | 八種來源抓取、百線程驗證、WebSocket 儀表板、多格式匯出 |
-| **searchIPCity** | IP 轉城市名稱的 CLI | 批次查詢、結果輸出檔案 |
-
----
-
 ## 技術工具箱
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
