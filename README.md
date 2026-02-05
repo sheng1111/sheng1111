@@ -37,21 +37,6 @@
 
 ---
 
-## 數據統計
-
-<table align="center">
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=sheng1111&hide_rank=true&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true" alt="GitHub 統計資料">
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheng1111&layout=compact&hide_border=true" alt="主要程式語言比例">
-</td>
-</tr>
-</table>
-
----
-
 ## 聯絡方式
 
 若有合作或討論需求，歡迎在任一專案開立 Issue 或使用個人檔案中的聯絡資訊。
